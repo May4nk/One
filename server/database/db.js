@@ -1,6 +1,6 @@
 import { Sequelize, DataTypes} from 'sequelize';
 
-const Conn = new Sequelize('one', 'write', 'miju@cr45h', {
+const Conn = new Sequelize('one', '', '', {
     dialect: 'postgres',
     host: 'localhost',
 });
