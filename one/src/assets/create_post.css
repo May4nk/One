@@ -1,0 +1,66 @@
+.overlay{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 10;
+    bottom: 0;
+    background: rgb(0,0,0);
+    z-index: 100;
+    width: 67%;
+    height: 95%;
+    margin-top: 4.04em;
+}
+
+.modale-box{
+   border: 2px solid grey;
+   min-height: 32em;
+   width: 27em;
+   margin: 2em 0 0 11em;
+   border-radius: 3%;
+   background: black;
+   cursor: pointer;
+   z-index: 1000;
+   position: fixed;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.box{
+    width: 25em;
+    background: rgb(86,86,86,0.2);
+    padding: 1em;
+    border-radius: 1em;
+    height: 22em;
+    margin-top: 3.7em;
+}
+
+.box-title{
+    font-weight: 700;
+    font-size: 1.3em;
+    text-align: center;
+    margin: 0.3em;
+}
+
+.lab{
+    font-weight: 700;
+    margin: 0.3em; 
+    background: rgb(86,86,86,0.1);
+    padding: 0.1em;
+}
+
+.feature-box{
+   display: flex; 
+   justify-content: space-between;
+   margin: 1em;
+}
+
+.sub{
+    text-align: center;
+}
+.icn{
+    font-size: 32px;
+    margin-left: 91%;
+}

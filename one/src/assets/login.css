@@ -1,0 +1,59 @@
+
+.flex-container{
+    display: flex;
+}
+
+.log-box{
+    border-right: 5px solid rgb(60,60,60,0.5);
+    height: 40.9em;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3em;
+}
+
+.log-pic{
+    margin-left: 3em;
+}
+
+.pic{
+    height: 13em;
+}
+
+.log-title{
+    font-size: 1.1em;
+    font-weight: 700;
+    text-align: center;
+}
+
+.motto{
+    font-size: 0.7em;
+    font-weight: 500;
+}
+
+.log-form{
+    margin-top: 4em;
+    margin-left: 4em;
+}
+
+.submit{
+    text-align: center;
+    margin-top: 1em;
+}
+
+.signup{
+    margin-top: -7em;
+    margin-left: 15em;
+    color: #212559;
+    text-decoration: none;
+}
+
+a{
+    color: #212559 !important;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white !important;
+}

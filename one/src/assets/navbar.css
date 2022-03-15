@@ -1,0 +1,31 @@
+.nav-title{
+    font-size: 2em;
+    font-weight: 700;
+    color: white;
+    margin-left: -27em;
+    margin-bottom: -0.5em;
+}
+.hr{
+    margin-top: 0em;
+}
+
+.pics{
+    height: 3em;
+}
+
+.signin{
+    width: 3em;
+    height: 3em;
+    border-radius: 50%;
+    margin-left: -7em;
+    margin-right: 3em;
+    margin-top: -0.3em;
+}
+
+.sign-img{
+    border-radius: 50%;
+    width: 2.9em;
+    height: 2.9em;
+}
+
+

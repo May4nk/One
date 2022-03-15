@@ -1,0 +1,23 @@
+.flex-container{
+    display: flex;
+}
+
+.box{
+    width: 100%;
+    background: rgb(64,64,64,0.1);
+    border-radius: 0.5em;
+    padding-top: 2.3em;
+}
+
+.event-box{
+    width: 99%;
+    margin: 0.5em;
+    background: rgb(64,64,64,0.1);
+    border-radius: 0.5em;
+    padding: 1em;
+}
+
+.event-title{
+    font-size: 1.1em;
+    font-weight: 630;
+}

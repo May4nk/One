@@ -1,0 +1,12 @@
+html{
+    height:100%;
+}
+
+body{
+   min-height: 100%;
+   background: rgb(128,128,128);
+}
+
+a{
+    cursor: pointer;
+}

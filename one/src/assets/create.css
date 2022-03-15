@@ -1,0 +1,36 @@
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    width: 31em;
+    margin-top: 3em;
+    background: rgb(86,86,86,0.2);
+    padding: 1em;
+    border-radius: 1em;
+}
+
+.box-title{
+    font-weight: 700;
+    font-size: 1.5em;
+    text-align: center;
+    margin: 0.3em;
+}
+
+.lab{
+    font-weight: 700;
+    margin: 0.3em; 
+    background: rgb(86,86,86,0.1);
+    padding: 0.1em;
+}
+
+.feature-box{
+   display: flex; 
+   justify-content: space-between;
+   margin: 1em;
+}
+
+.sub{
+    text-align: center;
+}
